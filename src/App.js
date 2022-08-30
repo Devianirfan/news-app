@@ -21,7 +21,6 @@ const App = () => {
 
     return (
         <div>
-            <div>WELCOME TO MY NEWS</div>
             <Navbar setSelectedLevel={(e) => setSelectedLevel(e)} />
             <Post data={data} />
         </div>
