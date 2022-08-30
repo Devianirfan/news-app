@@ -1,0 +1,476 @@
+[
+  {
+    "published_date": "1661500800",
+    "level": "2",
+    "title": "Hackerangriff auf Krankenhaus in Frankreich - auch in Deutschland möglich",
+    "body": "Vor wenigen Tagen ist ein Krankenhaus in der südöstlich von Paris gelegenen Stadt Corbeil-Essonnes Opfer eines Cyberangriffs geworden. Hacker sind erfolgreich in das IT-System des Krankenhauses eingedrungen und haben Zugänge zur Software des Krankenhauses gesperrt. Mit der Software koordiniert das Krankenhaus die Patientenaufnahme. Somit können seit Tage keine Notfallpatienten mehr aufgenommen werden. Sehr viele Neuaufnahmen wurden an Krankenhäuser innerhalb von Paris verwiesen. Operationen musste verschoben werden. Möglicherweise fallen sie zukünftig aus, so der Direktor des Krankenhauses, Gilles Calmes.\r\n\r\nDie Hacker verlangen vom Krankhaus ein Lösegeld von 10 Millionen Euro. Nach der Zahlung erfolge eine Entsperrung der Krankenhaussoftware, so die Kriminellen. Das Krankenhaus gab bereits bekannt, dass eine Zahlung nicht in Frage kommt, da es sich um eine staatliche Einrichtung handelt. Die Pariser Staatsanwaltschaft hat die Ermittlungen aufgenommen, hat bisher aber noch keine Täter erfassen können.\r\n\r\nBei der Schadsoftware, die die Hacker benutzt hatten, handelt es sich um sogenannte Ransomware. Das sind Programme, die gezielt über Sicherheitslücken in IT-Systeme eindringen, bestimmte Dateien oder Software auf Fremdrechnern verschlüsseln und automatisiert für die Entschlüsselung ein Lösegeld fordern. Solche Ransomware-Angriffe nehmen zu. Betroffen sind vor allem Unternehmen, so eine Studie des IT-Sicherheitsunternehmens Sophos vom Frühjahr 2022. \r\n\r\nDer Vorfall in Frankreich erinnert an den Cyberangriff auf die 30 Server der Universitätsklinik Düsseldorf vor fast genau zwei Jahren. Hier gingen die Hacker genauso vor, hatten allerdings nicht das Krankenhaus in Visier, sondern die Universität. Bei dem Vorfall starb ein Patient, da die lebenswichtige Operation verschoben werden musste. Der Angriff sei vermeidbar gewesen, hätte das Krankenhaus die notwendigen Maßnahmen zur IT-Sicherheit in die Wege geleitet, meinte BSI-Präsident Arne Schönbohm, Präsident des Bundesamtes für Sicherheit in der Informationstechnik (BSI) auf einer Konferenz des Landes Nordrhein-Westfalen zur Inneren Sicherheit im Januar 2021.\r\n\r\nSiBa rät generell Unternehmen und Organisationen zu präventiven Vorsichtsmaßnahmen vor Ransomware:\r\n- Aktualisieren Sie regelmäßig jegliche Software, um Schwachstellen zu schließen, über die Angreifer in Systeme eindringen können. Vergessen Sie dabei nicht die Firmware in Geräten wie Router oder Drucker.\r\n- Schadsoftware verbereiten Hacker auch über E-Mails. Daher gilt: Klicken Sie nicht auf Links oder Dateianhänge in E-Mails, die Ihnen suspekt vorkommen. Antworten Sie nicht auf solche E-Mails.\r\n- Nutzen Sie IT-Sicherheitsprogramme, die einen Schutz vor Phishing, Spam und Ransomware bieten. \r\n- Erstellen Sie regelmäßig Backups Ihrer Dateien, Ihrer Software oder Ihres Systems und sichern sie diese auf externe Speichermedien. So verhindern Sie Datenverlust.\r\n\r\nSie sind Opfer von Ransomware geworden? Dann melden Sie den Erpressungsversuch der Polizei. Gehen Sie auf keinen Fall auf Lösegeldforderungen ein, eine Entschlüsselung erfolgt laut Angaben der Polizei auch nach Zahlungen nicht.",
+    "categories": [
+      "40",
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100042772/wegen-cyberangriff-krankenhaus-in-frankreich-weist-notfallpatienten-ab.html",
+        "title": "T-Online: Wegen Cyberangriff: Krankenhaus weist Notfallpatienten ab"
+      },
+      {
+        "url": "https://www.kma-online.de/aktuelles/it-digital-health/detail/it-sicherheit-von-kliniken-mangelhaft-a-45318",
+        "title": "KMA-Online: IT-Sicherheit von Kliniken mangelhaft"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://difue.de/news/gefahrenschutz/ransomware-interview-tim-berghoff/",
+        "title": "Podcast D wie Digital: Ransomware - Ein Geschäft für jedermann"
+      },
+      {
+        "url": "https://difue.de/news/gefahrenschutz/ransomware-studie-immer-mehr-angriffe-auf-deutsche-firmen",
+        "title": "DiFü-News: Ransomware-Studie - Immer mehr Angriffe auf deutsche Firmen"
+      },
+      {
+        "url": "https://www.tisim.de/",
+        "title": "Unterstützung für Unternehmen: Transferstelle IT-Sicherheit im Mittelstand"
+      }
+    ],
+    "id": "6970"
+  },
+  {
+    "published_date": "1661345100",
+    "level": "0",
+    "title": "Warnung der Polizei: Gefälschte E-Mails im Namen der Bundesregierung im Umlauf",
+    "body": "Das LKA Niedersachen warnt in einer aktuellen Pressemitteilung vor Kriminellen, die sich in einer E-Mail als Bundesregierung ausgeben. Ihr Ziel: Das Erbeuten von Kreditkartendaten.\r\n\r\nIn besagter E-Mail behaupten sie, die \"Bezahlkarte\" des Empfängers sei nicht mehr konform mit den \"PSDS-Richtlinien\" der Europäischen Union. Daher sei es erforderlich, die Kredit- oder Debitkarte zu verifizieren. Die Meldung geht einher mit der Bedrohung, dass bei fehlender Verifizierung Sanktionen ausgesprochen werden müssten und das Konto bei der Bank gesperrt werden würde. \r\n\r\nUnterschrieben ist die E-Mail mit dem \"Department Finanzen und Sicherheit\" der Bundesregierung.\r\n\r\nKlickt man auf den Link zur vermeintlichen Verfizierung, landet man auf einer gefälschten Webseite, die der der Bundesregierung sich stark ähnelt. Logos und Schriftarten sind gleich. Tatsächlich gehört die Webseite den Betrügern. Gibt man auf dieser seine Kreditkartendaten ein, landen sie direkt bei den Kriminellen. Das LKA weist darauf hin, dass die Webseite sich ständig ändert, auch die Links werden regelmäßig ausgetauscht.\r\n\r\nDie Polizei rät, solch eine E-Mail umgehend zu löschen. Die Bundesregierung fordert nicht per E-Mail zur Verifikation von Bankdaten auf. Sollten Sie auf solch einen Betrug bereits hereingefallen sein, erstatten Sie umgehend Anzeige bei der Polizei.\r\n\r\nSiBa rät: Bei solchen Phishing-Versuchen sollte man generell vorsichtig sein. Nicht immer ist der Betrug sofort zu erkennen. Betrüger geben sich als Bundesregierung, Paketdienstleister, Bank oder Sparkasse oder als Online-Shop aus. Gerade wenn man tatsächlich ein Paket erwartet oder etwas im Netz bestellt hat, kann mal leicht darauf reinfallen. Sie erkennen solch einen Betrugsversuch häufig an der E-Mail-Adresse des Absenders. Die stimmt in der Regel nicht mit der Instituion überein, vor der sie behauptet, zu stammen. So endet auch im beschriebenen Fall die E-Mail-Adresse des Absenders nicht mit @bundesregierung.de oder @bund.de. Darüber hinaus fehlt in solchen gefälschten E-Mails häufig die Anrede und die Rechtschreibung weist meist Fehler auf. Ein weiteres Indiz: Ihnen wird Angst gemacht, es wird Druck aufgebaut, um Sie dazu zu bewegen, möglichst schnell auf einen Link zu klicken. Solch ein Vorgehen nennt man Social Engineering (Soziale Manipulation) und ist sehr typisch für Phishing-Mails.",
+    "categories": [
+      "37",
+      "43"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.polizei-praevention.de/aktuelles/gefaelschte-mail-der-bundesregierung-fordert-zur-verifizierung-der-kreditkarte-auf.html",
+        "title": "LKA Niedersachen: Gefälschte Mail der Bundesregierung ..."
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://xn--dif-joa.de/news/gefahrenschutz/erklaert-was-ist-phishing/",
+        "title": "DiFü: Betrugsmasche Phishing: Vorsicht vor Fake-Mails"
+      },
+      {
+        "url": "https://www.sicher-im-netz.de/phishing-im-netz-erkennen-und-vorbeugen",
+        "title": "DsiN: Phishing im Netz erkennen und vorbeugen"
+      }
+    ],
+    "id": "6929"
+  },
+  {
+    "published_date": "1660896900",
+    "level": "1",
+    "title": "Gravierende Sicherheitslücken in Apple-Geräten - Jetzt aktualisieren",
+    "body": "Das US-Unternehmen Apple hat vor gravierenden Schwachstellen in ihren hauseigenen Geräten wie dem iPhone, dem iPad und dem iMac gewarnt. Ob weitere Geräte wie die Apple Watch oder AppleTV betroffen sind, ist nicht bekannt.\r\n\r\nÜber die Sicherheitslücke können Angreifer sich Administrationsrechte verschaffen und so die volle Kontrolle über die Geräte bekommen. Die erste Schachstelle befindet sich in der Apples WebKit-Software. Ihre Funktion ist die Darstellung von Websites in Browsern wie zum Beispiel Safari. Die zweite Sicherheitslücke befindet im Kernel, im Zentrum des jeweiligen Betriebssystems macOS, iOS bzw. iPadOS.\r\n\r\nDie Sicherheitslücken stuft Apple als kritisch ein, höchstwahrscheinlich wurden sie von Hackern bereits ausgenutzt.\r\n\r\nSiBa empfielt die Installation von Updates, Iphones und iPads sollten umgehend auf die Version 15.6.1 aktualisiert werden, Macs sud die Version 12.5.1. Anleitungen finden Sie in den Links. Übrigens: Sie können sowohl bei Apple- als auch bei Windows-Geräten Einstellungen so vornehmen, dass Updates automatisch installiert werden. Damit sind sie umgehend geschützt. Wie das geht, erklärt Ihnen der DsiN-Digitalführerschein. Den passenden Link finden Sie unten.",
+    "categories": [
+      "41",
+      "42"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.tagesschau.de/wirtschaft/apple-sicherheitsluecke-105.html",
+        "title": "Tagesschau: Apple warnt vor Sicherheitslücke"
+      },
+      {
+        "url": "https://www.spiegel.de/netzwelt/gadgets/apple-veroeffentlicht-wichtige-updates-fuer-iphones-ipads-und-macs-a-cb873b0f-07c8-4839-ae90-12614dd50dea",
+        "title": "SPIEGEL: Apple veröffentlicht wichtige Updates für iPhones, iPads und Macs"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.apple.com/de-de/HT201222",
+        "title": "Apple: Informationen zu Sicherheitsupdates"
+      },
+      {
+        "url": "https://difue.de/news/windows-android-ios-macos-so-geht-die-update-automatik/",
+        "title": "DiFü-News: Automatische Updates für iOS, Windows und Android einrichten"
+      }
+    ],
+    "id": "6815"
+  },
+  {
+    "published_date": "1660730400",
+    "level": "1",
+    "title": "Update Mittwoch: Sicherheitslücken bei Zoom, Google Chrome und - in Traktoren",
+    "body": "Der Update-Mittwoch ist aus der Sommerpause zurück. Ab sofort informiert Sie SiBa wieder jeden zweiten Mittwoch über Sicherheitsupdates verschiedener Hersteller von Soft-und Hardware. Diese Sicherheitsupdates schließen Sicherheitslücken, über die Hacker Schadsoftware ausführen, persönliche Daten abgreifen oder Abstürze von IT-Systemen verursachen können. Diese Woche gibt es Sicherheitslücken in der Videokonferenzsoftware Zoom und beim Google-Browser Chrome. Und es ist einem Hacker gelungen, über Schwachstellen in das Software-System von Traktoren einzudringen.\r\n\r\n1. Hacker entsperrt Sicherheitsfunktionen in Traktorensoftware\r\n\r\nDie Digitalisierung ist auch in der Landwirtschaft angekommen, viele Prozesse laufen heute mittels Software ab. So auch die Steuerung von Traktoren.\r\nEinem Hacker aus Australien, der unter dem Namen \"Sick Codes\" auftritt, ist es nun gelingen, in die Software der Traktorenmodelle des US-Herstellers John Deere einzudringen. Es gelang ihm, eigentlich vom Hersteller gesperte Funktionen zu entsperren. Dieser sogenannte Jail Break hat zur Folge, dass Landwirte - technisches Know-How vorausgesetzt - die volle Kontrolle über ihre Traktoren-Software erlangen können und bei Problemen eigene Reparaturen oder Modifizierungen durchführen können. Bislang sind sie darauf angewiesen, bei notwendigen Reparaturen sich an authorisierte Händer zu wenden.\r\nAlles in allem rät SiBa davon ab, Jail Breaks vorzunehmen, sei es in der Software von Traktoren oder in Smartphones wie beispielsweise dem Apple iPhone. Bei jedem Eingriff in die Sicherheitsarchitektur von Software besteht die Gefahr, Geräte langfristig zu zerstören. Außerdem bieten Jail Breaks Hackern Angriffspotentiale: Ein von Sicherheitsfunktionen befreiter Traktor oder ein entsprechendes \"befreites\" Handy öffnet Hackern Türen und Tore. Darüber hinaus werden nach jedem Jail Break Sicherheitsupdates der Hersteller nicht mehr aufgespielt, weshalb solch eine Modifizierung nicht empfehlenswert ist.\r\nNeben dem \"Jail Break\" hat der Hacker \"Sick Codes\" auf Programmierfehler in der Software von Traktoren hingewiesen. Hersteller wie John Deere haben daher begonnen, diese zu beseitigen. Landwirte sollten also prüfen, ob zukünftig Sicherheitsupdates für die Software in ihren Traktoren zur Verfügung stehen und diese installieren.\r\n\r\n2. Jetzt Zoom aktualisieren\r\n\r\nDie Videkonferenzsoftware Zoom sollte ein Update erfahren. Besondern diejenigen, die Zoom auf dem Mac nutzen, sind aufgefordert, umgehend zu handeln. Denn das gleichnamige Unternehmen weist in seiner neusten Meldung auf ein Sicherheitsleck hin. Über diese Schwachstelle können Hacker Rechte für den Mac erlangen und Zugang zum gesamten System bekommen.\r\nUnklar ist, ob die Sicherheitslücke bereits ausgenutzt wurde. Das Unternehmen Zoom Inc. selbst stuft das Risiko trotzdem als hoch ein.\r\nUm das Problem zu beheben, wurde ein \"Fix\", ein Sicherheitsupdate bereitgestellt. Zoom weist allerdings darauf hin, dass zukünftig ein weiterer \"Fix\" zur Verfügung gestellt wird, der die Schwachstelle endgültig behebt.\r\nSiBa rät Betroffene, beide Updates umgehend zu aktualisieren, sobald sie zur Verfügung stehen. Eine Anleitung ist in den Links aufgeführt.\r\n\r\n3. Sicherheitslücken bei Google Chrome\r\n\r\nErneut gibt es gleich elf Schwachstellen im Browser Chrome. Über eine Sicherheitslücke können Angreifer Zugang zum \"Federated Credential Management (FedCM)\" erhalten. Dahinter verbirgt sich ein System für den passwortlosen Login. Haben Angreifer darüber die Kontrolle, können sie sich ungehindert in Accounts hineinhacken. Zu den weiten Schwachstellen ist wenig bekannt.\r\nDie genannte Sicherheitslücken stuft Google als einzige der elf als kritsch ein. Alle weiteren als hoch oder mittel.\r\nSiBa rät dringend zu Aktualisierung des Browsers. Eine Anleitung finden Sie in den Links.",
+    "categories": [
+      "37",
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100039446/john-deere-hacker-deckt-schwachstellen-in-traktoren-auf.html",
+        "title": "T-Online: Hacker deckt Schwachstellen in Traktoren auf"
+      },
+      {
+        "url": "https://www.spiegel.de/netzwelt/apps/zoom-sicherheitsluecke-warum-mac-user-dringend-ein-update-machen-sollten-a-77441cd3-7617-4b47-a3f6-98d09400b692",
+        "title": "SPIEGEL: Warum Mac-User dringend Zoom updaten sollten"
+      },
+      {
+        "url": "https://www.heise.de/news/Zoom-fuer-macOS-Update-Funktion-reisst-Sicherheitsluecke-7219942.html",
+        "title": "Heise.de: Zoom für macOS: Update-Funktion reißt Sicherheitslücke "
+      },
+      {
+        "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-7222389.html",
+        "title": "Heise.de: Google Chrome-Update: Exploit im Umlauf "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.google.com/chrome/answer/95414?hl=de",
+        "title": "Google: Chrome aktualisieren"
+      },
+      {
+        "url": "https://support.zoom.us/hc/de/articles/201362233-Aktualisieren-von-Zoom-auf-die-neueste-Version",
+        "title": "Zoom: Aktualisieren von Zoom auf die neueste Version"
+      }
+    ],
+    "id": "6784"
+  },
+  {
+    "published_date": "1660305600",
+    "level": "0",
+    "title": "BSI warnt vor Funk-Türschloss von ABUS",
+    "body": "Das Bundesamt für SIcherheit in der Informationstechnik (BSI) warnt in seiner neusten Meldung vor der Nutzung des Türschlosses HomeTec Pro CFA3000 der Firma ABUS. Eine gravierende Sicherheitslücke erlaubt es kriminellen Angreifern das Schloss zu knacken und sich so Zugänge zu geschützten Objekten zu verschaffen. Auch die Funkfernbedingung sei unsicher, so das BSI. \r\n\r\nKonkrete Einzelheiten zur Sicherheitslücke nennt das BSI nicht. Fest steht nur: Die Hacker müssen sich in der Nähe des Schlosses befinden, um es zu entriegeln. Eine Attacke aus der Ferne ist unmöglich. Das Sicherheitsrisiko ist also gering.\r\n\r\nDas BSI ruft Warnungen vor Sicherheitslücken aus, wenn die Hersteller bisher selbst keine oder unzureichende Maßnahmen ergriffen haben, die Schwachstelle zu beseitigen. Die Firma ABUS bestätigte die Schwachstelle, machte aber deutlich, dass ein Schließen der Sicherheitslücke mittels Sicherheitsupdate nicht möglich ist. Kunden, die sich das besagte Schloss gekauft haben, werden gebeten, sich ein Ersatz zu besorgen. Albus verweist auf ein Nachfolgermodell, welches den Sicherheitsanforderungen genügt.",
+    "categories": [
+      "41"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2022/220810_Warnung_ABUS.html",
+        "title": "BSI warnt vor dem Einsatz unsicherer Funk-Türschlösser der Marke ABUS"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Technische-Sicherheitshinweise-und-Warnungen/Warnungen-nach-Par-7/ABUS/abus_node.html",
+        "title": "BSI: Warnung vor Funk-Türschlossantrieb HomeTec Pro CFA3000 ..."
+      },
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100037948/bsi-warnt-vor-unsicherem-funk-tuerschloss-von-abus.html",
+        "title": "T-Online: BSI warnt vor unsicherem Funk-Türschloss ..."
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://partner-asc.abus.com/ez/information/asc_de_de/Ueber-uns/Ihre-AnsprechpartnerDs",
+        "title": "ABUS: Ansprechpartner"
+      },
+      {
+        "url": "https://xn--dif-joa.de/news/technologiealltag/podcast-dwiedigital-smart-home/",
+        "title": "Podcast \"D wie Digital\": Smart Home: Bequem – aber auch sicher?"
+      }
+    ],
+    "id": "6681"
+  },
+  {
+    "published_date": "1659692700",
+    "level": "0",
+    "title": "Massive Hackerattacke auf die IHK",
+    "body": "Die Industrie und Handelskammern (IHK) sind mutmaßlich am Mittwoch Opfer eines Cyberangriffs geworden. Attackiert wurde nach Presseberichten eine IT-Firma, die als Tochtergesellschaft der IHK knapp 80 Standorte in Deutschland betreibt. Von dem Angriff ist vor allem das Auslandsgeschäft betroffen. Es soll nicht mehr möglich sein, Handelspapiere und Urkunden auszustellen, so Günter Jertz, Hauptgeschäftsführer der IHK Rheinhessen gegenüber dem SWR. Die IHK sei trotz des Angriffs arbeitsfähig, intern funktioniere der Betrieb noch. Immerhin: Personenbezogene Daten wurden nicht gestohlen. \r\n\r\nTäter sind bislang nicht ermittelt worden, deren Motiv ist auch weitesgehend unbekannt. Zum technischen Vorgehen äußerte sich die IHK dahingehend, dass es sich offenbar um eine DDos-Attacke gehandelt hat. Dabei werden Server mit so vielen Anfragen konfrontiert, dass sie überlastet werden und nicht mehr erreichbar sind.\r\n\r\nDie IHK hat umgehend gehandelt und bereits nach dem ersten Verdacht die betroffenen Systeme heruntergefahren und vom Netz getrennt. Dies hat zur Folge, dass eine Kontaktaufnahme per Telefon oder E-Mail zurzeit nicht möglich ist. Auch digitale Servicedienstleistungen stehen nicht zur Verfügung.\r\n\r\nSiBa begrüßt diese schnelle Entscheidung der IHK und rät generell Unternehmen, sofort im Notfall zu handeln. Ein Angriff kann zu materialien und exzistenziellen Schäden führen. Daher ist es notwendig, dass Sicherheitsverantwortliche in Unternehmen beauftragt werden, die Angriffe schnell erkennen und notwendige Sicherheitsmaßnahmen umgehend einleiten können. Aber auch präventive Maßnahmen wie das regelmäßige Einspielen von Sicherheitsupdates, die Schwachstellen schließen, gehören dazu. Das DsiN-Projekt Transferstelle IT-Sicherheit im Mittelstand (TISiM) unterstützt Unternehmen auf ihrem Weg zum mehr IT-Sicherheit.\r\n",
+    "categories": [
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Cyberangriff-IHK-Verbaende-weitgehend-offline-auch-telefonisch-nicht-erreichbar-7202061.html",
+        "title": "heise.de: Cyberangriff - IHK-Verbände weitgehend offline, auch telefonisch nicht erreichbar "
+      },
+      {
+        "url": "https://t3n.de/news/ihk-cyber-angriff-hack-ddos-1489729/",
+        "title": "t3n.de: IHK von massivem Cyber-Angriff getroffen – Kammer reagiert "
+      },
+      {
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/cyberattacke-ihk-rheinland-pfalz-100.html",
+        "title": "SWR: Offenbar Cyber-Attacke auf die Industrie- und Handelskammern"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.tisim.de/",
+        "title": "Transferstelle IT-Sicherheit im Mittelstand (TISiM)"
+      }
+    ],
+    "id": "6537"
+  },
+  {
+    "published_date": "1659084300",
+    "level": "0",
+    "title": "Haftbefehl: Hacker drangen in Stromnetze ein",
+    "body": "Der Generalbundesanwalt hat Haftbefehl gegen einen Hacker erlassen, der mutmaßlich an einer kriminellen Vereinigung namens \"Berserk Bear\" beteiligt gewesen sein soll. Die russische Hackergruppe soll laut Presseberichten für Angriffe auf Netzwerke von Energieversorgern verantwortlich sein. Im Visier standen vor allem die Stromkonzerne EnBW und E.on sowie die Tech-Firma Netcom BW. Aber auch Gas- und Wasserkonzerne soll die Gruppe in den letzten Jahren angegriffe haben. Insgesamt sollen 150 Unternehmen betroffen gewesen sein. Unklar bleibt, wie viele Angriffe erfolgreich waren. EnBW erklärte, dass zu keinem Zeitpunkt die Strom- und Gasversorgung betroffen war, da diese über ein weiteres, gesichertes Netz verläuft, welches nicht angegriffen wurde.\r\n\r\nDer Hackergruppe gelang es offenbar, über manipulierte Websites an interne Zugänge zu gelangen und kritische Infrastrukturen auszuspionieren. Dabei gingen sie so vor: Sie versandten E-Mails im Namen von gefälschten Beratungsunternehmen. Im Anhang der E-Mails befanden sich fingierte Dokumente. Wurden solche Dokumente geöffnet, sollten Daten auf einer gefälschten Website eingegeben werden. Diese landeten sofort bei der Hackergruppe. Dieses Vorgehen nennt man Phishing. Außerdem gelang der Zugang zu Netzwerken über Schwachstellen in Routern.\r\n\r\nDie gefälschten Websites wurden offenbar auf Servern in Deutschland gehostet.\r\n\r\nDas Bundeskriminalamt koordiniert die Ermittlungen seit nunmehr fünf Jahren, in denen die Hackergruppe aktiv war.\r\n\r\nSiBa rät zu mehr Wachsamkeit bei Phishing-Versuchen. Seien Sie misstrauisch bei Dateinanhängen von vermeintlichen Unternehmen, von denen Sie noch nie etwas gehört haben und von denen Sie nie etwas angefordert haben. Recherchieren Sie im Netz, ob es diese tätsächlich gibt. Prüfen Sie in E-Mails den Absender. Häufig stimmt die E-Mail-Adresse nicht mit der vermeintlichen Firma überein, von der die E-Mail angeblich stammen soll. Sollte die E-Mail von einer Firma stammen, die Sie kennen, von der Sie aber keine E-Mail erwarten, dann kontaktieren sie diese per Telefon, Messenger oder per bekannter E-Mail-Adresse und fragen Sie, ob die E-Mail von jener Firma tatsächlich stammt. Das gilt auch für E-Mails, die Verbrecher im Namen von Banken, Sparkassen, Bezahldiensten oder Paktetdienstleistern versenden. Hier lohnt es sich, die Kundenbetreuung zu informieren. Außerdem sollten Sie IT-Sicherheitsoftware installieren. Die erkennt fehlerhafte und schadhafte Websites und blockiert den Zugang zu ihnen. Für Unternehmen gilt: Schulen Sie Ihre Mitarbeitenden, klären Sie sie über Angriffszenarieren auf. Installiseren Sie regelmäßig Sicherheitsupdates auf Ihren Geräten. Diese schließen Schwachstellen, über die Hacker in Ihre Netzwerke gelangen.\r\n",
+    "categories": [
+      "37",
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Russische-Hackergruppe-soll-deutsche-Energieversorger-aufs-Korn-genommen-haben-7192836.html",
+        "title": "Heise.de: Russische Hackergruppe soll deutsche Energieversorger aufs Korn genommen haben "
+      },
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100033006/spionage-attacke-russische-hacker-spionieren-deutsches-stromnetz-aus.html",
+        "title": "T-Online: Russische Hacker spionieren deutsches Stromnetz aus"
+      },
+      {
+        "url": "https://www.spiegel.de/netzwelt/netzpolitik/vermutlich-russische-hacker-spionierten-offenbar-gezielt-deutsche-stromnetze-aus-a-38a13de6-6ad6-4b6b-9e07-871265366613",
+        "title": "SPIEGEL: Hacker spionierten offenbar gezielt deutsche Stromnetze aus"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/phishing-im-netz-erkennen-und-vorbeugen",
+        "title": "DsiN: Phishing im Netz erkennen und vorbeugen"
+      },
+      {
+        "url": "https://difue.de/news/erklaert-was-ist-phishing/",
+        "title": "DiFü: Betrugsmasche Phishing ..."
+      }
+    ],
+    "id": "6391"
+  },
+  {
+    "published_date": "1658932200",
+    "level": "0",
+    "title": "Phone-Spoofing: Gefälschte Anrufe im Namen von Europol nehmen zu",
+    "body": "Das Bundeskriminalamt BKA warnt zurzeit vor einer Zunahme von Telefonanrufen, die von Kriminellen im Namen der europäischen Polizeibehörde Europol getätigt werden.\r\n\r\nIn den Anrufen geben sich die Betrüger als Mitarbeitende bei Europol aus und versuchen an Geld zu gelangen. Und zwar so: Zunächst behaupteten sie, dass ihnen aufgefallen sei, dass die persönliichen Daten des Angerufen bei ihren Ermittlungen gegen bestimmte Verbrechen aufgetaucht seien. Mit den angeblich gestohlenen Daten sollen dann mutmaßlich zum Beispiel gestohlene Autos angemeldet worden sein, die zwischenzeitlich beschlagnahmt worden seien. Oder das Bankkonto wurde angeblich für die Geldwäsche genutzt. Im Verlauf des Gesprächs machen die Kriminellen ihren Opfer Angst und bauen hohen Druck auf. Schließlich soll irgendein ein Geldbetrag überwiesen werden. Vor Schreck sind viele bereit für solch einen Geldtransfer. Dieses Geld landet dann bei den Kriminelle. nach bisherigen Recherchen von Jouranlist:innen in Asien.\r\n\r\nBei ihren Anrufen greifen die Kriminellen auf das sogenannte Phone-Spoofing zurück. Dabei geben sie mit speziellen Programmen reale Nummern von Europol an, welche beim Anrufer schließlich angezeigt wird. Das ist besonders perfide, denn so fällt der Betrug nicht sofort auf.\r\n\r\n\"Die Polizei würde nie Überweisungen am Telefon veranlassen oder heikle Ermittlungen besprechen. Liegt etwas vor, wird ein Ermittlungsverfahren eröffnet, und man wird geladen. Nicht unter Druck setzen lassen und schnell auflegen\", sagt Gerald Rak, Leiter der Betrugsermittlungen im Bundeskriminalamt. SiBa schließt sich dem Rat an.",
+    "categories": [
+      "42"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100031788/europol-warnt-vor-telefon-betrugsmasche-die-leute-spielen-mit-der-angst-.html",
+        "title": "T-Online: Europol warnt vor Betrugsmasche mit Fake-Anrufen"
+      },
+      {
+        "url": "https://www.derstandard.de/story/2000137783349/gefaelschter-europol-anruf-via-telefon-um-30-000-euro-geprellt",
+        "title": "Der Standard: Gefälschter Europol-Anruf: Via Telefon um 30.000 Euro geprellt"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://difue.de/news/gefahrenschutz/vorsicht-europol-anrufe-sind-fake/?s=Europol",
+        "title": "DiFü: Vorsicht: „Europol“-Anrufe sind Fake"
+      }
+    ],
+    "id": "6349"
+  },
+  {
+    "published_date": "1657268100",
+    "level": "0",
+    "title": "Phishing: Gefälschter Chatbot \"Suzy\" im Namen von DHL im Umlauf",
+    "body": "Mittels der Methode Phishing versuchen weiterhin Kriminelle an persönliche Daten wie Passwörter, Adressen oder Bankdaten zu gelangen. Mit gezielten Täuschungsmanövern und geschickten Manipulationen locken sie uns in E-Mails, in SMS oder sogar per Telefon in die Falle. Sie geben sich als seriöseses Unternehmen aus, als Bank, als Paketdienstleister, als Online-Shop, als Polizei, zuletzt sogar als Euopol. In ihren Nachrichten bauen sie hohen Druck auf. Immer wieder muss angeblich dringend gehandelt werden. Sonst drohen Strafen oder Konsequenzen, beispielsweise irgendeine Sperrung des Kontos bei der Bank oder eine wichtige Bestellung könne vermeintlich nicht zugestellt werden. Schnell klicken wir auf einen scheinbar seriös wirkenden Link und übermitteln dann auf gefälschten Webseiten ahnungslos unsere privatesten Daten an die Berüger. \r\n\r\nNach Angaben der Verbraucherzentrale NRW haben Hacker inzwischen sogar sogenannte Chatbots per E-Mail in den Unlauf gebracht. Chatbots sind kleine, messengerähnliche Programme, ähnlich wie WhatSapp, bei denen aber kein Mensch, sondern ein Computer in einer Unterhaltung automatisch persönliche Daten erfragt. In den E-Mails geben sich die Kriminellen als den Paketdienstleister DHL aus und behaupten, dass ein Paket beschädigt und daher nicht zugestellt werden könne. Mit einem Klick auf einen Link gelangt man umgehend zum Chatbot \"Suzy\". Ein weiblich wirkendes Gesicht bittet um die Eingabe der persönlichen oder geschäftlichen Lieferadresse. Gibt man diese ein, leitet Suzy weiter an eine gefälschte Website, die von der Original-DHL-Webseite kaum zu unterscheiden ist. Auf der gefälschten Seite soll man nun für die Paketbearbeitung bezahlen. Gibt man dort seine Lieferadresse und seine Bankdaten ein, gar sein Passwort für den Fake-Login bei DHL, landen alle Daten bei den Betrügern. Diese können solche Daten für weitere illegale Geschäfte missbrauchen, könnten gar in Ihrem Namen Bestellungen auslösen oder Ihre Daten in großen Hackerforen verkaufen.\r\n\r\nSiBa rät: Bleiben Sie vorsichtig und misstrauisch, vor allem, wenn Sie gar kein Paket erwarten. Prüfen Sie den Absender der E-Mail. Stammt sie von DHL bzw. endet die E-Mail-Adresse mit @dhl.de? Sind Sie unsicher, können Sie die angebliche Sendungsnummer auch direkt auf der Website von DHL eingeben oder in der DHL-App. Genau dazu rät auch die Verbraucherzentrale NRW. Recherchiere Sie: Hat DHL überhaupt einen Chatbot im Einsatz? Dem ist nämlich nicht so. Noch ein letzter Tipp: Nutzen Sie unterschiedliche Passwörter für verschiedene Internetdienste. Haben Kriminelle Sie tatsächlich reingelegt und ihr Passwort gestohlen, hätten sie somit gleich Zugriff auf alle ihre weiteren Konten, zum Beispiel zu Online-Shops oder zu Bezahldiensten.",
+    "categories": [
+      "37",
+      "42",
+      "43"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.spiegel.de/netzwelt/web/dhl-verbraucherschuetzer-warnen-vor-betruegerischem-chatbot-suzy-a-0e9cd851-1e9f-406c-a7c8-7efa106bc0c6",
+        "title": "SPIEGEL: Verbraucherschützer warnen vor Fake-Chatbot Suzy"
+      },
+      {
+        "url": "https://www.verbraucherzentrale.nrw/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059",
+        "title": "Verbraucherzentrale NRW: Phishing-Radar"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.dhl.com/de-de/home/fusszeile/betrugserkennung.html",
+        "title": "DHL: Betrügerische Verwendung der Marke DHL "
+      },
+      {
+        "url": "https://www.sicher-im-netz.de/phishing-im-netz-erkennen-und-vorbeugen",
+        "title": "DsiN: Phishing im Netz erkennen und vorbeugen"
+      }
+    ],
+    "id": "5980"
+  },
+  {
+    "published_date": "1656669600",
+    "level": "0",
+    "title": "Social Engineering - Die Tricks der Online-Betrüger",
+    "body": "Phishing ist der Versuch Krimineller, mittels Social Engineering (gezielter Manipulation) an persönliche Daten oder an vertrauliche Firmenunterlagen zu gelangen. Der größte Risikofaktor ist hierbei der Mensch. In Eile, aus Neugier oder aufgrund von Hilfsbereitschaft, klickt man in dieser oder jenen E-Mail auf einen mit Viren oder Trojanern belasteten Anhang oder klickt auf einen Link zu einer Website und gibt dort persönliche Daten ein. Diese landen draufhin sofort bei den Betrügern.\r\n\r\nIn den E-Mails bauen die Kriminellen immer gezielter Druck auf. Sie geben sich als Bank aus und behaupten, das Konto sei gesperrt, es bestünde dringender Handlungsbedarf. Oder sie geben sich als Zoll aus und versenden Zahlungsaufforderungen, verbreiten Angst mit Strafandrohungen. Oder sie versenden E-Mails im Namen der Polizei, geben sich in SMS oder per Telefon als Polizei, zuletzt sogar als Europol aus. Oder, wie die Verbraucherzentrale aktuell berichtet, sie versenden vermeintlich geänderte Aktuelle Geschäftsbedingungen (AGB) als Anhang, denen man zustimmen müsse. Natürlich schaut man in diese herein. Man will ja wissen, was sich geändert hat. Leider fängt man sich so Schadsoftware ein.\r\n\r\nOder sie geben sich als Kolleg:in oder als Geschäftspartner aus, die oder der dringend Hilfe bei der Erstellung einer Rechnung oder bei der Programmierung einer Software braucht und nutzen die Hilfbereitschaft von Menschen aus. Möglicherweise missbrauchen sie gar den gehackten E-Mail-Account der oder des Kolleg:in oder des Geschäftspartners.\r\n\r\nSocial Engineerer werden auch immer raffinierter. So verwenden sie vermehrt als Absender eine E-Mail-Adresse, die denen bekannter E-Mail-Anbieter sehr ähnelt. Kennen Sie beispielweise den Unterschied zwischen @gmail.com und @gmaiI.com? Bei der letzteren Variante handelt es sich nicht um ein kleines \"L\", sondern um ein großes \"i\".\r\n\r\nSiBa rät, Virenscanner und Firwalls zu nutzen, um vor Angriffen mit Schadsoftware geschützt zu sein, sofern man doch einmal auf einen schadhaften Anhang klickt. Außerdem gilt es, Vorsicht walten zu lassen, insbesondere dann, wenn in der E-Mail besonders viel Druck aufgebaut wird oder wenn die oder der Kolleg:in plötzlich etwas völlig Ungewöhnliches möchte. Lassen Sie sich davon nicht verunsichern. Kontaktieren Sie bekannte Absender per Messenger oder Telefon, wenn Sie Zweifel haben, ob diese von jenen wirklich stammen. Ähnliches gilt für Internet-Dienste oder Banken. Auch hier können Sie sich an die Kundenbetreuung wenden oder, statt auf den Link in der E-Mail zu klicken, loggen Sie sich einfach in das Online-Banking oder in das Online-Portal des Dienstes ein. Gibt es tatsächlich Unstimmgkeiten mit Ihrem Konto, tauchen diese dort auch auf.\r\n\r\nIm Podcast \"D wie Digital\" des DsiN-Digitalführerscheins, in der aktuellen Folge \"Wenn Menschen Menschen hacken\" erfahren Sie mehr über Social Engineering. Den Link dazu finden Sie unten.",
+    "categories": [
+      "37"
+    ],
+    "url_action": [
+      {
+        "url": "https://xn--dif-joa.de/news/gefahrenschutz/podcast-dwiedigital-social-engineering/",
+        "title": "Podcast D wie Digital: Social Engineering - Wenn Menschen Menschen hacken"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://xn--dif-joa.de/news/gefahrenschutz/erklaert-was-ist-phishing/",
+        "title": "DiFü-News: Betrugsmasche Phishing: Vorsicht vor Fake-Mails"
+      },
+      {
+        "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059",
+        "title": "Verbraucherzentrale: Phishing-Radar"
+      }
+    ],
+    "id": "5841"
+  },
+  {
+    "published_date": "1656496800",
+    "level": "0",
+    "title": "Deep oder Cheap Fake? - Franziska Giffey spricht mit falschem Vitali Klitschko",
+    "body": "Die regierende Bürgermeisterin von Berlin, Franziska Giffey, ist letzte Woche Freitag Opfer einer digitalen Täuschung geworden. Eigentlich wollte sie um 17 Uhr per Videokonferenz mit Vitali Klitschko, Oberbürgermeister der ukrainischen Hauptstadt Kiew, sprechen. Doch im Verlauf des Gesprächs stellte sich heraus, dass das Gegenüber zwar aussah und sprach wie Vitali Klitschko, es sich aber nicht um eine reale Person handelt, sondern um eine Fälschung. Auch der Bürgermeister Madrids, José Luis Martínez-Almeida, traf auf jenen Fake-Klitschko, genauso wie Wiens Bürgermeister Michael Ludwig, Warschaus Stadtpräsident Rafał Trzaskowski und der Budapester Oberbürgermeister Gergely Karacsony.\r\n\r\nSeitdem wird spekuliert, welche Technik hinter jenem Fake-Klitschko steckt. Zunächst wurde in der Berliner Senatskanzlei vermutet, dass es sich um einen sogenannten Deep Fake handle. Bei einem Deep Fake werden unzählige Video-, Audio- und Bilddaten einer Person, ihre Lippen- oder Kopfbewegungen, ihre Gestik, Mimik und Sprache, von einer künstlichen Intelligenz tiefgehend analysisiert, um so neues Videomaterial zu generieren. So können Statements oder Interviews von Personen produziert werden, ohne ihre Anwesenheit und ohne ihr Wissen. Von Deep-Fakes sind vor allem prominente Persönlichkeiten betroffen, von denen sehr viel Bild-, Video- oder Audiomaterial im Netz zu finden ist. Berühmtestes Opfer ist beispiel Barack Obama. Von ihm gibt es ein Deep-Fake-Video, in dem er vor Deep Fakes im Netz warnt. Den Link dazu finden Sie unten.\r\n\r\nInzwischen gibt es Zweifel an der Theorie der Senatskanzlei, es handle sich bei dem Fake-Klitschko um einen Deeep-Fake. IT-Sicherheitsexperten gehen nun eher von einem sogenannten Cheap Fake (von einer \"billigen Fälschung\") aus. Das heißt: Es wurden in der Videokonferenz ledigliche Videoschnipsel von Herrn Klitschko abgespielt. Möglich ist das über Programme, die statt das Kamerbild eingespielte Videos über die Webcam sendet.\r\n\r\nDeep Fakes finden immer mehr Verbreitung im Netz. Es sind beispielsweise vermehrt Apps in den sozialen Netzwerken im Umlauf, mit denen Tiere oder Menschen zum singen oder tanzen gebracht werden können. In diesen lädt man nur ein Bild hoch, die KI erledigt den Rest. Deep Fakes begünstigen auch Kriminalität. So sind Fälle bekannt, in Bilder und Videos von Personen, insbesondere von Prominenten, missbraucht wurden, um ihre Körper, insbesondere ihre Köpfe, in pornografische Filme einzufügen. Betrug und Datendiebstahl können genauso durch Deep Fakes begünstigt werden wie das Verbreiten von Fake News oder Verschwörungserzählungen.\r\n\r\nDeep Fakes sind auf dem Vormarsch, sind aber häufig noch sehr unausgereift. Daher kann man sie mit genauem Hinsehen häufig sehr gut erkennen, zum Beispiel an fehlerhaften Proportionen, merkwürdig verschobenen Hintergründen, an häufigen Schnitten sowie an ständig sich wiederholenden Grafik- oder Pixelfehlern. Cheap Fakes in Videokonferenzen lassen sich recht einfach aufdecken. Wenn Sie unsicher sind, ob Sie mit einer realen Person sprechen, fordern Sie sie einfach auf, die Hand zu heben oder einen bestimmten Satz zu wiederholen. Geschieht das nicht, sehen Sie wahrscheinlich ein Video.\r\n\r\nSollten Sie Opfer von Deep Fakes geworden sein, hat jemand ihre Bilder oder Audiodateien ohne Ihre Zustimmung missbraucht, so informieren Sie umgehend die Polizei. Zuvor sollten Sie Beweise sichern.\r\n",
+    "categories": [
+      "37",
+      "44",
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.t-online.de/digital/internet-sicherheit/sicherheit/id_100023090/modernste-computertechnik-war-falscher-klitschko-nur-ein-billiger-trick-.html",
+        "title": "T-Online: Falscher Klitschko – \"Billiger Trick\" könnte Politiker getäuscht haben"
+      },
+      {
+        "url": "https://www.rnd.de/digital/franziska-giffey-fuehrt-telefonat-mit-falschem-klitschko-war-es-wirklich-ein-deep-fake-PJDHDW2EZVD7HH43BNQ5CD3XKQ.html",
+        "title": "RND: War es wirklich ein Deep Fake?"
+      },
+      {
+        "url": "https://ars.electronica.art/center/de/obama-deep-fake/",
+        "title": "Ars Electronica: Obama Deep Fake"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://polisin.de/",
+        "title": "PolisiN - kostenfreie Workshops für Politiker:innen für mehr IT-SIcherheit"
+      }
+    ],
+    "id": "5807"
+  },
+  {
+    "published_date": "1656062100",
+    "level": "0",
+    "title": "Landeskriminalamt warnt vor Zunahme von Erpresser-Mails",
+    "body": "Das Landeskriminalamt Niedersachsen erhält nach eigenen Angaben vermehrt Nachfragen von Bürger:innen zu E-Mails von mutmaßlichen Erpressern. Das Ziel der Kriminellen, die solche E-Mails massenhaft in den Umlauf bringen, ist es, Menschen mit falschen Behauptungen unter Druck zu setzen, Angst zu erzeugen und sie unzuchüchtern, um schließlich Geld zu erbeuten.\r\n\r\nDie Maschen sind sehr perfide. So behaupten die Erpresser in ihren Mails, sie hätten das Betriebssystem ihrer vermeintlichen Opfer geknackt Sie beschreiben sogar im Detail wie der Hack angeblich vonstattenging. So sollen sie den Router gehackt und eine Schadsoftware im System installiert haben. Dieser ermöglichte ihnen angeblich den Zugriff auf den PC. Unbemerkt haben sie angeblich sämtliche Daten gestohlen. Jegliche Dateien auf der Festplatten, Passwörter, Telefonnummern oder Adressen seien bereits kopiert worden. Schließlich kommen sie zum Punkt: Offenbar haben sie rein zufällig festgestellt, dass ihre Opfer \"Websites für Erwachsene\" angeschaut hätten. Daraufhih habe man die Webcam gehackt und Bilder der Opfer beim Betrachten der angeblich pornografischen Websites gemacht. Daraufhin folgt die Forderung: Zahle man nicht innerhalb weniger Tage einen Geldbetrag, zum Beispiel 600 Euro, würde man diese Bilder veröffentlichen. Die Kriminellen akzeptieren nur Bitcoins, eine kryptische Währung im Internet. Sie ermöglicht das anonyme Bezahlen und ist daher bei Kriminellen sehr beliebt. Die Kriminellen geben in ihren E-Mails sogar eine Anleitung, wie man im Internet mit Bitcoins handelt. Schließlich behaupten sie, es sei umöglich, die Schadsoftware aufzuspüren und zu entfernen. Das sei auch sinnlos, denn die Bilder und jegliche Daten liegen ja angeblich bereits bei den Kriminellen. Nur mit der Zahlung des Geldes sei man zukünfig sicher. Man versichere, man würde nach der Zahlung ihrer Opfer in Ruhe lassen.\r\n\r\nDie E-Mail wirken zunächst echt. Denn als Absender erscheinen die E-Mail-Adressen ihrer Opfer, so hätten sie Zugriff auf das E-Mail-Konto. Tatsächlich nutzen die Kriminellen das sogenannte \"Spoofing\". Dabei kann man als Absender jede E-Mail-Adresse eintragen, die Empfänger sind dann verwirrt und glauben, die E-Mail stamme vom gleichen Account. Tatsächlich ist der Absender aber ein ganz anderer. Ein weiteres Indiz sollte Sorgen machen: Die Kriminellen nennen in einigen ihrer E-Mails das Passwort zum Login in den Posteingang als Beweis für den Hack. Ist dem so, so haben die Kriminellen Datenbanken genutzt, in denen das Passwort mitsamt der E-Mail-Adresse zu finden ist. Dann wurde es tatsächlich gehackt. Allerdings gelangt man mit dem Passwort für den Posteingang beim E-Mail-Anbieter nicht in den Router. Ein Hack des PCs ist also nicht zwingend die Folge.\r\n\r\nDass solche E-Mails massenhaft und nicht persönlich an ihre Opfer verschickt werden, erkennen Sie daran, dass die Anrede fehlt. Jemand, der angeblich alle Daten hat, sollte jemanden persönlich ansprechen können. Außerdem fehlen Beweise für das Anfertigen von Webcam-Fotos. Außerdem erhalten solche E-Mails auch Personen, die gar keine pornografischen Websites besuchen und gar jene, die gar keine Webcam besitzen.\r\n\r\nDie Polizei rät, Ruhe zu bewahren und sich nicht unter Druck setzen zu lassen. Keinesfalls sollte Geld überwiesen werden oder auf die E-Mail geantwortet werden. Eine Anzeige bei der Polizei ist immer möglich. Diese prüft dann auch, ob es sich um eine echte Erpressung handelt, die tatsächlich an jemanden persönlich gerichtet ist oder um, wie hier beschrieben, um eine Fälschung. SiBa schließt sich dem Rat an und ergänzt: Sollte das Passwort genannt werden, sollte es geändert werden. Nutzen Sie starke Passwörter mit Sonderzeichen, Buchstaben und Zahlen. Verwenden SIe keine Wörter aus Wörterbüchern und keine Geburtstage. Um sich ein Passwort nicht immer merken zu müssen, verwenden Sie die DsiN-Passwortkarte oder, wenn Sie es lieber digital mögen, sichere und effiziente Passwortmanager. Im Lernangebot des DsiN-Digitalführerscheins gibt es konkrete Tipps, welche Passwortmanager sich lohnen. Sowohl die DsiN-Passwortkarte als auch den DsiN-Digitalführerschein finden Sie in den Links.",
+    "categories": [
+      "37"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.polizei-praevention.de/aktuelles/die-taegliche-erpressermail-fast-alles-fake.html",
+        "title": "LKA Niedersachsen: Die tägliche Erpressermail – (fast) alles Fake"
+      },
+      {
+        "url": "https://www.heise.de/news/Strafverfolger-warnen-vor-Erpresser-Mails-7147873.html",
+        "title": "Heise.de: Strafverfolger warnen vor Erpresser-Mails "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/dsin-passwortkarte",
+        "title": "Die DsiN-Passwortkarte"
+      },
+      {
+        "url": "https://xn--dif-joa.de/digitalfuehrerschein/",
+        "title": "Der DsiN-Digitalführerschein"
+      }
+    ],
+    "id": "5724"
+  },
+  {
+    "published_date": "1655906400",
+    "level": "1",
+    "title": "Update-Mittwoch: Sicherheitslücken in der Amazon Cloud AWS, bei Wordpress und Google Chrome",
+    "body": "Ab sofort informiert Sie SiBa jeden zweiten Mittwoch über Sicherheitsupdates verschiedener Hersteller von Soft-und Hardware. Diese Sicherheitsupdates schließen Sicherheitslücken, über die Hacker Schadsoftware ausführen, persönliche Daten abgreifen oder Abstürze von IT-Systemen verursachen können. Diese Woche gibt es Sicherheitslücken in der Cloud von Amazon, bei einem Plugin für WordPress und - mal wieder - bei Google Chrome.\r\n\r\nSicherheitslücke im Sicherheitsupdate: Jetzt Update zum Update in der Amazon Cloud AWS installieren\r\n\r\nVor geraumer Zeit hat Amazon allen Kund:innen, die die Amazon Cloud AWS nutzen, ein Skript (\"log4j-cve-2021-44228-hotpatch-1.3-5\") zur Verfügung gestellt, um die berühmte und sehr gefährliche log4j-Sicherheitslücke zu schließen (SiBa berichtete). Nun hat man festgestellt: Dieses Skript hat ein Sicherheitsleck. Über dieses können Angreifer Zugriffsrechte in der Cloud ausweiten und letztlich die Kontrolle übernehmen. Kund:innen haben daraufhin keinen Zugriff mehr auf ihre Daten in der Cloud.\r\nDas Risiko schätzt Amazon als \"important\", also als \"wichtig\" ein und bittet Administrator:innen dringend darum, die neuste Version des Skriptes zu installieren. Dazu sollte die alte Version deinstalliert werden.\r\nSiBa schließt sich der Bitte an.\r\n\r\nSchwachstelle im WordPress-Plugin \"Ninja Forms\"\r\n\r\nViele Privatpersonen und Unternehmen erstellen ihre Webseite mit dem weit verbreitetem Content-Management-System WordPress. Dieses erlaubt die Installation von Zussatzprogrammen, von Plugins. So ist das Plugin \"Ninja Forms\" ist ein sehr beliebtes Plugin, mit dem man schnell und einfach ein Kontaktformular anlegen und in die Website integrieren kann. Genau dieses Plugin weist nun eine Schwachstelle auf. Über diese können Angreifer Schadsoftware in die Website einschleusen.\r\nDie Sicherheitslücke wird von Wodfence, der IT-Sicherheitsabteilung von WordPress, als kritisch eingestuft. Offenbar wurde sie von Kriminellen bereits ausgenutzt.\r\nSiBa rät zur Installtion des bereitsgestellten Updates. Dieses wird angezeigt, wenn man sich ins Backend von Wordpress einloggt.\r\n\r\nGoogle Chrome: Mit einem Update gleich 14 Sicherheitslücken schließen\r\n\r\nSeit mehreren Wochen in Folge findet Google Sicherheitslücken im Browser Chrome. 14 sind es an der Zahl in dieser Woche. Konkrete Details nennt Google nicht. Fakt ist nur: Über die Schwachstellen können Angreifer Systeme zum Abstürzen bringen. Betroffen sind alle Betriebssysteme, von Windows über Linux bis zu iOS und Android.\r\nDas Risiko wird als kritisch eingestuft. Offenbar wurden die Sicherheitslücken bereits von Hackern ausgenutzt.\r\nSiBa rät zur Installation des in Kürze zur Verfügung gestellten Sicherheitsupdates, die aktuellste Version trägt die Nummer 103.0.5060.53.\r\n",
+    "categories": [
+      "37"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-WordPress-Plug-in-Ninja-Forms-behoben-7143515.html",
+        "title": "Heise.de: Kritische Sicherheitslücke in WordPress-Plug-in Ninja Forms behoben "
+      },
+      {
+        "url": "https://www.heise.de/news/AWS-Amazon-Hotpatch-fuer-log4j-Luecke-ermoeglicht-Rechteausweitung-7145383.html",
+        "title": "Heise.de: Amazon-Hotpatch für log4j-Lücke ermöglicht Rechteausweitung "
+      },
+      {
+        "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-14-Sicherheitsluecken-in-Chrome-7147522.html",
+        "title": "Heise.de: Google schließt 14 Sicherheitslücken in Chrome "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.cyberfibel.de/digitale-kompetenzen/geraete-und-software-sicher-einrichten-und-pflegen/software-aktuell-halten/",
+        "title": "Cyberfibel: Software aktuell halten"
+      }
+    ],
+    "id": "5688"
+  },
+  {
+    "published_date": "1655464500",
+    "level": "1",
+    "title": "Hackerangriff auf das IT-System der Partei Bündnis 90/Die Grünen",
+    "body": "Bislang noch unbekannte Hacker haben sich in den letzten Tagen Zugang zum \"Grünen Netz\" verschafft, zum IT-System der Partei Bündnis 90/Die Grünen. Aus Sicherheitsgründen ist es zwischenzeitlich vom Netz genommen worden und somit nur noch eingeschränkt nutzbar.\r\n\r\nIm \"Grünen Netz\" informiert der Bundesverband, die verschiedenen Landesverbände und weitere Arbeitsgemeinschaften über ihre Aktionen und Positionen. Anträge und Arbeitsmaterialien werden hochgeladen und diskutiert. Das \"Grüne Netz\" steht allen Mitgliedern der Partei offen. Nach Angaben der Bundesgeschäftstelle wurde eine \"größere Datenmenge\" gestohlen, die hinterlegten personenbezogenen Daten der Mitglieder seien aber nicht betroffen. Im Visier der Angreifer standen offenbar E-Mail-Konten von \"führenden Grünenpolitikern\". Trotzdem heißt es im Schreiben des Bundesvorstands an alle Nutzer:innen des \"Grünen Netzes\", sie sollten ihre Passwörter ändern und die verfügbare Zwei-Faktor-Authentisierung einrichten. Bei Letzterer wird für den Login neben dem Passwort ein zweiter Faktor benötigt, zum Beispiel ein Code, der per SMS an das Handy gesendet wird.\r\n\r\nDie Ursache des Angriffs ist bisher unbekannt. Die Bundesgeschäftstelle hat eine private IT-Sicherheitsfirma beauftragt, Sicherheitslücken und Schwachstellen des \"Grünen Netzes\" zu finden und ggf. zu schließen. Außerdem wurde der Angriff dem Bundesamt für Sicherheit in der Informationstechnik (BSI) gemeldet, die die Nachforschungen unterstützt.\r\n\r\nSiBa rät Verantwortliche in der Politik, Parteien und Fraktionen sowie Mandats- und Amtsträger:innen, zur Vorsorge. Sichern Sie Zugänge zu Accounts ab, mit starken Passwörtern und der Zwei-Faktor-Authentisierung. Klären Sie Mitglieder und Mitarbeiter:innen in Schulungen über die vielfältigen Mögichkeiten auf, Accounts per Zwei-Faktor-Authentisierung zu schützen. Schützen Sie Ihre Systeme vor Daten- und Identitätsdiebstahl, vor Schadsoftware, vor Viren, Trojanern oder vor Erpressersoftware, sogenannter Ransomware, durch einen sicheren und souveränen Umgang mit kriminellen Phishing-Angriffen per E-Mail und mobile Endgeräte vor Smishing-Angriffen per SMS Schließen Sie Einfallstöre in IT-Systeme und Netzerke durch regelmäßige Updates von Betriebssystemen, Programmen und mobilen Apps. Vergessen Sie dabei auch nicht die Software in Geräten wie zum Beispiel Druckern zu aktualisieren, die regelmäßig zum Eindringen in Netzwerke missbraucht werden.\r\n\r\nSiBa empfiehlt, sich beraten und unterstützen zu lassen. Das Projekt PolisiN - Politiker:innen sicher im Netz von Deutschland sicher im Netz e.V. begleitet Mandats- und Amtsträger:innen auf ihrem Weg zu mehr IT-SIcherheit, mit kostenfreien Schulungen und Handreichungen. Mehr dazu in den Links.\r\n",
+    "categories": [
+      "37",
+      "38",
+      "42",
+      "45"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Cyberangriff-auf-IT-System-der-Gruenen-7143010.html",
+        "title": "Heise.de: Cyberangriff auf IT-System der Grünen"
+      },
+      {
+        "url": "https://www.tagesschau.de/inland/cyberangriffe-auf-die-gruenen-101.html",
+        "title": "Tagesschau: Cyberangriffe auf IT-System der Grünen"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://polisin.de/",
+        "title": "PolisiN - kostenfreie und bedarfsgerechte Workshops für Politiker:innen"
+      }
+    ],
+    "id": "5607"
+  },
+  {
+    "published_date": "1655294400",
+    "level": "0",
+    "title": "Sparkassen-Browser S-Protect - jetzt noch sicherer",
+    "body": "Der Deutsche Sparkassen und Giroverband (DSGV) hat in Kooperation mit der CORONIC GmbH den Browser S-Protect weiterentwickelt und ist somit jetzt noch sicherer als zuvor.\r\n\r\nDer Browser S-Protect ermöglicht ein sichereres Online-Banking als reguläre Browser wie Google Chrome oder Mozilla Firefox. Die Sicherheit ermöglicht eine Whitelist, in der lediglich Webseiten verzeichnet sind, die tatsächlich zur Sparkassengruppe gehören. Sie lassen sich an der Echtheit der Sicherheitszertikate erkennen. Surft die Kundin oder der Kunde mit S-Protect im WWW, so werden ihm nur die vertrauenswürdigen Webseiten des Sparkassenverbunds angezeigt. Weitere Webseiten, auch jene mit Schadsoftware, werden blockiert. So werden gefläschte Sparkassen-Webseiten, auf die man über Phishing-Links in E-Mails gelangt, nicht angezeigt.\r\n\r\nDas Magazin c‘t hat sich in den letzten Wochen den Sparkassen-Browser genauer angeschaut und einige Sicherheitslücken gefunden. So gelang es den IT-Experten von außen auf die im Browser integrierte Bildschirmtastatur zuzugreifen. So war ein Keylogging möglich. Das heißt: Alles, was jemand in diese virtuelle Tastatur eingibt, wirch durch die Hacker überwacht und aufgezeichnet. So zum Beispiel auch die Zugansgdaten. Außerden gelang es Heise.de Daten, die in S-Protect eingegeben wurden, aus dem Arbeitsspeicher auszulesen. Hacker, die sich bereits auf fremde Rechner eingeschleust haben, könnten so Passwörter stehlen. Schließlich gelang es c‘t, den Browser teilweise mit schadhaften Website-Teilen zu überdecken, mit sogenannten Overlays. So gelang es ihnen, die Eingabemaske für die Zugangsdaten zu fälschen. Geben Hacker über diese Overlays ihre Daten ein, landen sie direkt bei den Betrügern. Aber auch dafür benötigen sie den Zugriff auf den fremden Rechner. Er muss also bereits gehackt worden sein. \r\n\r\nDie Coronic GmbH, hat dazu eine Stellungnahme verfasst. In dieser macht der Hersteller von S-Proctet klar, dass viele Sicherheitsmängel bekannt sind und bereits behoben worden sind. So erscheint die Bildschirmtastatur bei Hackern ab sofort geschwärzt. Ein Keylogging ist somit viel schwieriger geworden. Viele weitere Sicherheitsmängel sind dem Hersteller bereits bekannt und es wird mit Hochdruck daran gearbeitet, Lösungen dafür zu finden.\r\n\r\nKlar ist: Kein System, auch der S-Browser, ist absolut sicher. Entsprechend haben die Sparkassen auch den Hinweis entfernt, dass der S-Browser auf bereits gehackten und mit Schadsoftware infizierten Rechner sicher sei. SiBa rät, mit Viren oder Trojanern infizierte Rechner mit Anti-Virensoftware gründlich zu desinfizieren und auf diesen kein Online-Banking zu betreiben. Die Anti-Viren-Softwäre löscht alle schadhaften Programme oder setzt sie in eine digitale Quarantäne, sodas sie keinen Schaden mehr anrichten können. Ist das nicht möglich, weil der Rechner bereits zu stark befallen ist, rät SiBa zur Neuinstallation des Betriebssystems. ",
+    "categories": [
+      "39"
+    ],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/c-t-entdeckt-Sicherheitsmaengel-in-Banking-Software-der-Sparkasse-7126688.html",
+        "title": "Heise.de vom 03.06.2022: c’t entdeckt Sicherheitsmängel in Banking-Software ..."
+      },
+      {
+        "url": "https://www.coronic.de/gegendarstellung/",
+        "title": "Coronic.de vom 03.06.2022: Da liegt die c‘t wohl etwas falsch"
+      },
+      {
+        "url": "https://www.heise.de/news/Sparkassen-Browser-S-Protect-Hersteller-behebt-einige-Fehler-7136701.html",
+        "title": "Heise.de vom 15.06.2022: Sparkassen-Browser S-Protect - Hersteller behebt einige Fehler "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/s-protect-neuer-browser-der-sparkasse-setzt-auf-sicherheit-beim-online-b",
+        "title": "SiBa-News vom 29.04.2022: S-Protect - Neuer Browser der Sparkasse ..."
+      },
+      {
+        "url": "https://www.sparkasse-am-niederrhein.de/protect",
+        "title": "Sparkasse am Niederrhein: S-Protect - Der sichere Browser fürs Online-Banking per PC"
+      },
+      {
+        "url": "https://xn--dif-joa.de/news/gefahrenschutz/erklaert-was-ist-phishing/",
+        "title": "DiFü-News: Betrugsmasche Phishing ..."
+      }
+    ],
+    "id": "5574"
+  }
+]

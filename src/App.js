@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import Post from './components/Posts/Post';
+import Navbar from './components/Navbar';
+import Data from "./data.json"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const App = () => {
+
+    const [data, setData] = useState(Data);
+    const [selectedLevel, setSelectedLevel] = useState('');
+
+    useEffect(() => {
+        console.log(selectedLevel)
+        const filteredData = Data.filter((item) => item.level === selectedLevel)
+        if (selectedLevel) {
+            setData(filteredData)
+        } else {
+            setData(Data)
+        }
+    }, [selectedLevel])
+
+    return (
+        <div>
+            <Navbar setSelectedLevel={(e) => setSelectedLevel(e)} />
+            <Post data={data} />
+        </div>
+    );
+};
 
 export default App;
